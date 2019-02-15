@@ -1,5 +1,13 @@
 ﻿body {
     background-color: #666;
+    height: 100%;
+     margin: 0px;
+     padding: 0px;
+}
+
+html{
+padding: 0xp;
+    margin: 0px;
 }
 
 #canvas{
